@@ -1,1 +1,1 @@
-test clone push
+test stash
